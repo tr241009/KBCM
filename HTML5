@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<title> KB's Custom Molding </title>
+
+<h1>
+About KB's Custom Molding
+</h1>
+.lw { font-size: 60px; }
+
+h1 {
+	color: orange;
+	text-align: center;
+}
+
+<p title="KB's Custom Molding">
+KB's Custom Molding is a family owned and operated plastics molding company.
+</p>
+
+<hr>
+
+</head>
+
+
+<body>
+<!-- Start your code here -->
+
+
+<article> This will be a website for KB's Custom Molding
+<br>
+
+</article>
+<p class="lw">Hello Taylor! this is encoded in UTF8!</p>
+
+<img src="iqms_logo.png" alt="IQMS" width="180" height="142">
+
+<br> Go to <a href="http://www.iqms.com"> IQMS.com</a> for more information!
+<br>
+
+<br>Last updated: 8:32 AM 7/24/2015
+<time>
+
+<!-- End your code here -->
+</body>
+</html>
+
+<!-- comments .lw { font-size: 60px; } -->
